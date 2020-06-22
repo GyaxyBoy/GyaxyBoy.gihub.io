@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\stay-at-home\\github-quiz-GyaxyBoy"
+		},
+		{
+			"path": "..\\..\\Web app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.CustomBrowser": "chrome",
+		"liveServer.settings.multiRootWorkspaceName": "Web app"
+	}
+}
